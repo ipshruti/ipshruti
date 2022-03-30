@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Shruti Priya. I am a Software Test Engineer.
+
 <!--
 **ipshruti/ipshruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
