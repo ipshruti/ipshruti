@@ -1,18 +1,14 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.jpg">
+  <img alt="Shruti Priya, over a painted sunset landscape" src="assets/banner-light.jpg">
+</picture>
 
-I am Shruti Priya. I am a Software Test Engineer.
+<p align="center">
+  <b>Senior QA Engineer</b> · London<br>
+  <a href="https://pshruti.com">pshruti.com</a> ·
+  <a href="https://pshruti.com/blog/">Writing</a> ·
+  <a href="https://www.linkedin.com/in/ipshruti/">LinkedIn</a> ·
+  <a href="https://pshruti.com/cv">CV</a>
+</p>
 
-<!--
-**ipshruti/ipshruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I find bugs before your users do. 8+ years testing web apps, APIs and data systems, including ITV's streaming platforms.
